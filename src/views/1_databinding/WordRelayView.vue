@@ -14,7 +14,7 @@ export default {
 
   data() {
     return {
-      word: "제로초",
+      word: "제로초!!",
       value: "",
       result: "",
     }

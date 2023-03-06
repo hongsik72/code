@@ -11,7 +11,7 @@ export default {
   data() {
     return {
       message: "upload1",
-      message2: "",
+      message2: "upload2",
     }
   },
   created() {
