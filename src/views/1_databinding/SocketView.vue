@@ -10,7 +10,7 @@ export default {
   name: "HelloWorld",
   data() {
     return {
-      message: "",
+      message: "upload1",
       message2: "",
     }
   },
