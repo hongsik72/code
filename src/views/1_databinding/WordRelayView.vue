@@ -14,7 +14,7 @@ export default {
 
   data() {
     return {
-      word: "제로초99",
+      word: "제로초22",
       value: "",
       result: "",
     }
