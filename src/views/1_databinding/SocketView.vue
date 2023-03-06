@@ -10,8 +10,8 @@ export default {
   name: "HelloWorld",
   data() {
     return {
-      message: "upload00",
-      message2: "upload00",
+      message: "upload88",
+      message2: "upload88",
     }
   },
   created() {
